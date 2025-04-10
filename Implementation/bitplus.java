@@ -1,4 +1,4 @@
-// https://codeforces.com/problemset/problem/282/A
+//  https://codeforces.com/problemset/problem/282/A
 
 import java.util.Scanner;
 
